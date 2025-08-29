@@ -76,8 +76,6 @@ app.listen(3000)
   request: é o que o usuário está pedindo = req
   response: é o que o servidor vai responde = res
   ferreiramarragabriel
-  y29ZM57iiGTajPep
-  xEEh1qNUeGQPCKar
 */
 
 /*
