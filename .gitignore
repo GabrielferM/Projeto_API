@@ -128,3 +128,10 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+node_modules
+# Keep environment variables out of version control
+.env
+
+/generated/prisma
+
+.back_end_project
